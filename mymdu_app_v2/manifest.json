@@ -1,0 +1,15 @@
+{
+  "name": "MyMDU.25 Optimized",
+  "short_name": "MyMDU.25",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e293b",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/732/732221.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
